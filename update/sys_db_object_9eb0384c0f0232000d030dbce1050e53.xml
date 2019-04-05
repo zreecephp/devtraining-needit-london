@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sys_db_object">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
     <sys_db_object action="INSERT_OR_UPDATE">
         <access>public</access>
         <actions_access>false</actions_access>
@@ -18,7 +17,9 @@
         <provider_class/>
         <read_access>true</read_access>
         <super_class display_value="Task" name="task">5da4c2856110320092c0b8181e2a7aa0</super_class>
+        <sys_class_code/>
         <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-04-05 19:43:12</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
